@@ -15,23 +15,23 @@ export default function Home() {
             <div className="container p-0">
                 <div className="row no-gutters">
                     <div className="col-md-6 text-center pt-5">
-                        <div class="sign-in-detail text-white">
-                            <a class="sign-in-logo mb-5" href="#"><img src="/images/logo-full.png" class="img-fluid" alt="logo"/></a>
-                            <div class="sign-slider overflow-hidden ">
-                                <ul  class="swiper-wrapper list-inline m-0 p-0 ">
-                                    <li class="swiper-slide">
-                                        <img src="/images/login/1.png" class="img-fluid mb-4" alt="logo"/>
-                                        <h4 class="mb-1 text-white">Find new friends</h4>
+                        <div className="sign-in-detail text-white">
+                            <a className="sign-in-logo mb-5" href="#"><img src="/images/logo-full.png" className="img-fluid" alt="logo"/></a>
+                            <div className="sign-slider overflow-hidden ">
+                                <ul  className="swiper-wrapper list-inline m-0 p-0 ">
+                                    <li className="swiper-slide">
+                                        <img src="/images/login/1.png" className="img-fluid mb-4" alt="logo"/>
+                                        <h4 className="mb-1 text-white">Find new friends</h4>
                                         <p>It is a long established fact that a reader will be distracted by the readable content.</p>
                                     </li>
-                                    <li class="swiper-slide">
-                                        <img src="/images/login/2.png" class="img-fluid mb-4" alt="logo"/> 
-                                        <h4 class="mb-1 text-white">Connect with the world</h4>
+                                    <li className="swiper-slide">
+                                        <img src="/images/login/2.png" className="img-fluid mb-4" alt="logo"/> 
+                                        <h4 className="mb-1 text-white">Connect with the world</h4>
                                         <p>It is a long established fact that a reader will be distracted by the readable content.</p>
                                     </li>
-                                    <li class="swiper-slide">
-                                        <img src="/images/login/3.png" class="img-fluid mb-4" alt="logo"/>
-                                        <h4 class="mb-1 text-white">Create new events</h4>
+                                    <li className="swiper-slide">
+                                        <img src="/images/login/3.png" className="img-fluid mb-4" alt="logo"/>
+                                        <h4 className="mb-1 text-white">Create new events</h4>
                                         <p>It is a long established fact that a reader will be distracted by the readable content.</p>
                                     </li>
                                 </ul>
